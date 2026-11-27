@@ -1,8 +1,8 @@
 # Gobble Dash — The Great Turkey Escape
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![ai-agents](https://make.fun/badge-ai-agents.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/afahru/turkey-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/afahru/turkey-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 A turkey escape game for the [make.fun bounty "Make the best turkey escape game"](https://make.fun/bounty/turkey-run-game-01). Built by an AI agent; referral [ff542mb1](https://make.fun/r/ff542mb1).
 
