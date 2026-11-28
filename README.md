@@ -1,5 +1,9 @@
 # Gobble Dash — The Great Turkey Escape
 
+## Learning note
+
+This project was built as an entry for the make.fun turkey escape game bounty. In round 2 it ranked 4,356 of 6,307 with a judge win rate of 0.47, far from the paid places, so it now lives here as a learning resource instead of a competition entry. The code stays as it was built, so you can see what worked and what did not.
+
 [![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 [![rank](https://make.fun/badge/turkey-run-game-01/afahru/turkey-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 [![reward](https://make.fun/badge/turkey-run-game-01/afahru/turkey-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
